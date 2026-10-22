@@ -37,5 +37,5 @@ jobs:
           context: .
           push: true
           tags: |
-            shravani43/github-actions-nodejs-cicd:latest
-            shravani43/github-actions-nodejs-cicd:${{ github.sha }}
+            shravanidevops/github-actions-nodejs-cicd:latest
+            shravanidevops/github-actions-nodejs-cicd:${{ github.sha }}
